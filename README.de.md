@@ -5,26 +5,26 @@ permalink: /de/
 lang: de
 ---
 
-# [pose_estimation](https://github.com/europanite/pose_estimation "Ein Container für Posenschätzung aus 2D-Bildern.")
+# [pose-estimation](https://github.com/europanite/pose-estimation "Ein Container für Posenschätzung aus 2D-Bildern.")
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![OS](https://img.shields.io/badge/OS-Linux%20%7C%20macOS%20%7C%20Windows-blue)
 [![Python](https://img.shields.io/badge/python-3.10%20|%203.11|%203.12|%203.13-blue)](https://www.python.org/)
 
-[![CodeQL Advanced](https://github.com/europanite/pose_estimation/actions/workflows/codeql.yml/badge.svg)](https://github.com/europanite/pose_estimation/actions/workflows/codeql.yml)
-[![CI](https://github.com/europanite/pose_estimation/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/pose_estimation/actions/workflows/ci.yml)
-[![Python Lint](https://github.com/europanite/pose_estimation/actions/workflows/lint.yml/badge.svg)](https://github.com/europanite/pose_estimation/actions/workflows/lint.yml)
+[![CodeQL Advanced](https://github.com/europanite/pose-estimation/actions/workflows/codeql.yml/badge.svg)](https://github.com/europanite/pose-estimation/actions/workflows/codeql.yml)
+[![CI](https://github.com/europanite/pose-estimation/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/pose-estimation/actions/workflows/ci.yml)
+[![Python Lint](https://github.com/europanite/pose-estimation/actions/workflows/lint.yml/badge.svg)](https://github.com/europanite/pose-estimation/actions/workflows/lint.yml)
 
 <p align="right">
-  <a href="https://europanite.github.io/pose_estimation/">🇺🇸 English</a> |
-  <a href="https://europanite.github.io/pose_estimation/hi/">🇮🇳 हिंदी</a> |
-  <a href="https://europanite.github.io/pose_estimation/ja/">🇯🇵 日本語</a> |
-  <a href="https://europanite.github.io/pose_estimation/zh-CN/">🇨🇳 简体中文</a> |
-  <a href="https://europanite.github.io/pose_estimation/es/">🇪🇸 Español</a> |
-  <a href="https://europanite.github.io/pose_estimation/pt-BR/">🇧🇷 Português (Brasil)</a> |
-  <a href="https://europanite.github.io/pose_estimation/ko/">🇰🇷 한국어</a> |
-  <a href="https://europanite.github.io/pose_estimation/de/">🇩🇪 Deutsch</a> |
-  <a href="https://europanite.github.io/pose_estimation/fr/">🇫🇷 Français</a>
+  <a href="https://europanite.github.io/pose-estimation/">🇺🇸 English</a> |
+  <a href="https://europanite.github.io/pose-estimation/hi/">🇮🇳 हिंदी</a> |
+  <a href="https://europanite.github.io/pose-estimation/ja/">🇯🇵 日本語</a> |
+  <a href="https://europanite.github.io/pose-estimation/zh-CN/">🇨🇳 简体中文</a> |
+  <a href="https://europanite.github.io/pose-estimation/es/">🇪🇸 Español</a> |
+  <a href="https://europanite.github.io/pose-estimation/pt-BR/">🇧🇷 Português (Brasil)</a> |
+  <a href="https://europanite.github.io/pose-estimation/ko/">🇰🇷 한국어</a> |
+  <a href="https://europanite.github.io/pose-estimation/de/">🇩🇪 Deutsch</a> |
+  <a href="https://europanite.github.io/pose-estimation/fr/">🇫🇷 Français</a>
 </p>
 
 !["web_ui"](./assets/images/web_ui.png)
